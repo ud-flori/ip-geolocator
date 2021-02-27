@@ -9,8 +9,8 @@
 	<developers>
 		<developer>
 			<id>jeszy</id>
-			<name>Péter Jeszenszky</name>
-			<email>jeszenszky.peter@inf.unideb.hu</email>
+			<name>Flórián Zselenák</name>
+			<email>flori.zs14@gmail.com</email>
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
@@ -41,14 +41,14 @@
 			<version>2.12.1</version>
 			<scope>compile</scope>
 		</dependency>
-<!--
+
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
 			<version>3.11</version>
 			<scope>compile</scope>
 		</dependency>
--->
+
 <!--
 		<dependency>
 			<groupId>org.projectlombok</groupId>
