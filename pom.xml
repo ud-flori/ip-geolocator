@@ -7,7 +7,7 @@
 	<version>1.0</version>
 	<distributionManagement>
   <site>
-    <id>shrek</id>
+    <id>flori00</id>
     <url>scp://@shrek.unideb.hu:2222/home/flori00/public_html/${project.artifactId}</url>
   </site>
 </distributionManagement>
